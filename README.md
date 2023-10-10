@@ -1,7 +1,7 @@
 # WEBlaba2
 VADIM DULKO
 124404
-idi naxyi
+саи иди
 <<<<<<< HEAD
 
 new test data
